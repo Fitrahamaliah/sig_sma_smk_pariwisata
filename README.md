@@ -1,6 +1,6 @@
-# sistem-informasi-geografis-sekolah
-<br> Sistem informasi geografis sekolah sma smk di surabaya
-<br> Geographical information system for senior high school in Surabaya
+# sistem-informasi-geografis-sekolah-dan-pariwisata
+<br> Sistem informasi geografis sekolah sma smk dan wisata di surabaya
+<br> Geographical information system for senior high school and tour in Surabaya
 
 Instalasi :
 1. Import database sekolah.sql
